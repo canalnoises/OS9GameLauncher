@@ -7,7 +7,3 @@ A simple AppleScript to automate the launching of Mac OS 9 applications stored o
 Dependencies: Jon's Commands 2.1.2 - http://www.applefritter.com/node/12927
 
 Tested on Mac OS 9.2.2
-
-Changelog:
-Version 1.0 - 04 July 2017 - First working version
-Version 1.1 - 06 July 2017 - Added support for A-Dock quitting and relaunching
