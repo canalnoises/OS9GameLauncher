@@ -1,6 +1,3 @@
-# OS9GameLauncher
-A simple AppleScript to automate the launching of Mac OS 9 games stored on disk images. Includes additional functionality such as optimizing the screen resolution for the game.
-
 # Game Launcher AppleScript for Mac OS 9
 Written by Isaac Nelson
 Version 1.1 - 06 July 2017
