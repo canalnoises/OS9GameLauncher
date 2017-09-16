@@ -6,11 +6,11 @@ A simple AppleScript to automate the launching of Mac OS 9 applications stored o
 
 ## Dependencies
 ### Required
-Jon's Commands 2.1.2 - http://www.applefritter.com/node/12927
+- **Jon's Commands 2.1.2** - http://www.applefritter.com/node/12927
 
 ### Recommended
-Virtual CD/DVD-ROM Utility - http://macintoshgarden.org/apps/virtual-dvd-romcd-utility
-ProcessInfo - http://macintoshgarden.org/apps/processinfo-131
+- **Virtual CD/DVD-ROM Utility** - http://macintoshgarden.org/apps/virtual-dvd-romcd-utility
+- **ProcessInfo** - http://macintoshgarden.org/apps/processinfo-131
 
 ## How to use
 This AppleScript requires some customization before it can be used. Follow the instructions below to make it work for your app.
