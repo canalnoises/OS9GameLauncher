@@ -11,6 +11,7 @@ A simple AppleScript to automate the launching of Mac OS 9 applications stored o
 ### Recommended
 - **Virtual CD/DVD-ROM Utility** - http://macintoshgarden.org/apps/virtual-dvd-romcd-utility
 - **ProcessInfo** - http://macintoshgarden.org/apps/processinfo-131
+- **A-Dock** - http://macintoshgarden.org/apps/a-dock-301
 
 ## How to use
 This AppleScript requires some customization before it can be used. Follow the instructions below to make it work for your app.
